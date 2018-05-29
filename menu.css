@@ -20,7 +20,7 @@ input[type=radio] {
 }
 
 label {
-	background: center 0.5em no-repeat;
+	background: center 0.5em no-repeat #563429;
 	background-size: 4em;
 	color: white;
 	display: block;
