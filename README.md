@@ -1,9 +1,44 @@
-### App Criado com Cordova para Android
+# App Criado com Cordova para Android: Só Cenoura
 
-#### Ferramentas Utilizadas:
+Projeto criado em Cordova de um app de pedidos para uso interno em restaurante.
 
-* Cordova (https://cordova.apache.org) | *Mobile apps with HTML, CSS & JS*
-* Materialize (https://materializecss.com/) | *Framework baseado no Material Design da Google*
-* Plugins do Cordova: 
-   * cordova-plugin-statusbar (https://www.npmjs.com/package/cordova-plugin-statusbar)
-   * phonegap-plugin-barcodescanner (https://www.npmjs.com/package/phonegap-plugin-barcodescanner)
+<br>
+
+![Preview do app](Demo.gif)
+
+<br>
+
+## Tecnologias utilizadas
+Tecnologia | Descrição | Versão | Site
+------------ | ------------- | ------------ | ------------
+Cordova | Mobile apps with HTML, CSS & JS | 3.0.0 | https://cordova.apache.org
+Cordova Plugin Statusbar  | Statusbar | 0.3.2 | https://www.npmjs.com/package/cordova-plugin-statusbar
+Phonegap Plugin Barcodescanner  | Scanner QR Code | 0.3.2 | https://www.npmjs.com/package/phonegap-plugin-barcodescanner
+Materialize | Framework baseado no Material Design da Google | 4.11.0 | https://materializecss.com/
+
+<br>
+
+<!--
+## Project setup
+```
+yarn install
+```
+<!--
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+<!--
+### Compiles and minifies for production
+```
+yarn build
+```
+<!--
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<br>
+
+## Demo
+
+https://covid-tracker-vuejs.netlify.app
