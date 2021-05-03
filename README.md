@@ -4,7 +4,9 @@ Projeto criado em Cordova de um app de pedidos para uso interno no restaurante.
 
 <br>
 
+<div align="center">
 ![Preview do app](Demo.gif)
+</div>
 
 <br>
 
