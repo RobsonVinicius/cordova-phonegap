@@ -13,10 +13,10 @@ Projeto criado em Cordova de um app de pedidos para uso interno no restaurante.
 ## Tecnologias utilizadas
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
-Cordova | Mobile apps with HTML, CSS & JS | 3.0.0 | https://cordova.apache.org
-Cordova Plugin Statusbar  | Statusbar | 0.3.2 | https://www.npmjs.com/package/cordova-plugin-statusbar
-Phonegap Plugin Barcodescanner  | Scanner QR Code | 0.3.2 | https://www.npmjs.com/package/phonegap-plugin-barcodescanner
-Materialize | Framework baseado no Material Design da Google | 4.11.0 | https://materializecss.com/
+Cordova | Mobile apps with HTML, CSS & JS | 8.0.0 | https://cordova.apache.org
+Cordova Plugin Statusbar  | Statusbar | 2.4.2 | https://www.npmjs.com/package/cordova-plugin-statusbar
+Phonegap Plugin Barcodescanner  | Scanner QR Code | 8.0.0 | https://www.npmjs.com/package/phonegap-plugin-barcodescanner
+Materialize | Framework baseado no Material Design da Google | 1.0.0-rc.2 | https://materializecss.com/
 
 <br>
 
