@@ -22,7 +22,7 @@ Materialize | Framework baseado no Material Design da Google | 4.11.0 | https://
 
 ## Demo
 
-cordova-phonegap.netlify.com/
+https://cordova-phonegap.netlify.com/
 
 <!--
 ## Project setup
