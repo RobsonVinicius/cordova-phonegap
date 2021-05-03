@@ -1,6 +1,6 @@
 # App Criado com Cordova para Android: Só Cenoura
 
-Projeto criado em Cordova de um app de pedidos para uso interno em restaurante.
+Projeto criado em Cordova de um app de pedidos para uso interno no restaurante.
 
 <br>
 
@@ -17,6 +17,10 @@ Phonegap Plugin Barcodescanner  | Scanner QR Code | 0.3.2 | https://www.npmjs.co
 Materialize | Framework baseado no Material Design da Google | 4.11.0 | https://materializecss.com/
 
 <br>
+
+## Demo
+
+cordova-phonegap.netlify.com/
 
 <!--
 ## Project setup
@@ -37,8 +41,5 @@ yarn build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-<br>
 
-## Demo
 
-https://covid-tracker-vuejs.netlify.app
